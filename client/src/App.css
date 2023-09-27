@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+body {
+  background: #f6f6f5;
+  scroll-behavior: smooth;
+}
